@@ -1,8 +1,7 @@
 /*
  * C++ Design Patterns: Proxy
  * Author: Mahsa Hassankashi [github.com/Hassankashi]
- * 2016
- *
+ * 2021
  * Source code is licensed under MIT License
  * (for more details see LICENSE)
  *
