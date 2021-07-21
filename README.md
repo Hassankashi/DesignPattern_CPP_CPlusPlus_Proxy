@@ -1,16 +1,14 @@
-Musculoskeletal Modelintegrated Iterative Learning Control (MMILC) 
+# MATLAB Code Musculoskeletal Modelintegrated Iterative Learning Control (MMILC) #
 
-Musculoskeletal model accelerates the self-learning of iterative learning control (ILC)
-to accomplish repetitive joint movements.
+Musculoskeletal model accelerates the self-learning of iterative learning control (ILC) to accomplish repetitive joint movements.
 
-#MATLAB Code#
 
 ## How To Run The Code ##
-In order to run the code, open #### run_ilc.m #### and then run it in matlab or octave environment.
+In order to run the code, open **run_ilc.m** and then run it in matlab or octave environment.
 
 ## Datset ##
-The data comes from six subject from article #### Artificially induced joint movement control with musculoskeletal
-model-integrated iterative learning algorithm ####.
+The data comes from six subject from article ***Artificially induced joint movement control with musculoskeletal
+model-integrated iterative learning algorithm***.
 Such as:
 * Mass Gravitational Length [Nm/rad] `mgl = [7.56 9.05 8.81 10.02 8.50 9.01];`
 * Elastic Coefficient [Nm/rad]       `lambda =[ 2.72 2.20 1.98 3.01 2.52 3.60]; `
@@ -37,14 +35,12 @@ RMSE will be calculated as follow:  `r=sqrt(sum((qactual(:)-qdesired(:)).^2)/num
 Musculoskeletal model accelerates the self-learning of iterative learning control (ILC)
 to accomplish repetitive joint movements.
 
-#MATLAB Code#
-
 ## How To Run The Code ##
-In order to run the code, open #### run_ilc.m #### and then run it in matlab or octave environment.
+In order to run the code, open **run_ilc.m** and then run it in matlab or octave environment.
 
 ## Datset ##
-The data comes from six subject from article #### Artificially induced joint movement control with musculoskeletal
-model-integrated iterative learning algorithm ####.
+The data comes from six subject from article **Artificially induced joint movement control with musculoskeletal
+model-integrated iterative learning algorithm**.
 Such as:
 * Mass Gravitational Length [Nm/rad] `mgl = [7.56 9.05 8.81 10.02 8.50 9.01];`
 * Elastic Coefficient [Nm/rad]       `lambda =[ 2.72 2.20 1.98 3.01 2.52 3.60]; `
